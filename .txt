@@ -5,5 +5,6 @@ Contenidos que tendrá mi portfolio:
 - Primero una foto mía y una breve descripción de quien soy.
 - Después pondré los lenguajes de programación que sé manejar pero de una manera sencilla, sin abarcar todo el portfolio.
 - A continuación estarán mis estudios, formaciones y certificados oficiales para acreditar que tengo esos conocimientos.
-- Después pondré mi experiencia laboral (la cual es muy poca)
+- Después pondré mi experiencia laboral (la cual es muy poca).
 - Y por último proyectos personales que haya desarrollado.
+
